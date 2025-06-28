@@ -1,6 +1,5 @@
-Hi my name is Alexander Kofi Stone, I live in Brighton UK working remotely as a front-end web developer.
-I specialize in Vue.js creating modern and aesthetically pleasing applications.
+Hi my name is Alexander Kofi Stone, I'm a Digital Accessibility Engineer & Front-end Developer based in Lancing, UK.
+I build inclusive, accessible web experiences with clean, semantic code. Passionate about WCAG, usability, and modern front-end tech.
 
 Email: alexanderkofistone@gmail.com
-
-Portfolio: alexanderkofistone.co.uk
+alexanderkofistone.co.uk
